@@ -1,0 +1,1 @@
+export const BASE_URL= `http://api.cybersolvings.com.maxworld.club`
